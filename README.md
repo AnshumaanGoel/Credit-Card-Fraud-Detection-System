@@ -1,3 +1,5 @@
+Problem statement and Synopsys of Project
+
 Presently, the accuracy of fraud detection is poor with high number of false positive errors(correct transaction classified as fraud) or classification errors. Azure Machine Learning can be used to enhance accuracy of fraud detection. 
 To solve this problem, we use Supervised learning algorithms to train the classifier for detecting anomalous credit card transaction. Once trained, we use test dataset to compare the new accuracy of fraud detection with old accuracy. The new accuracy would be higher than the old accuracy that would prove an enhanced fraud detection system.
 Azure AI, ML, Data Analytics functionality and Python programming language would be employed to achieve the desired results. 
