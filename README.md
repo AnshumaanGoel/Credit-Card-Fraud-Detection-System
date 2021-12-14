@@ -1,4 +1,6 @@
-Working Code deployed in Azure Cloud at https://ml.azure.com/fileexplorerAzNB?wsid=/subscriptions/15ae5d0d-1d7a-4643-9088-62988c5a2dc4/resourcegroups/Credit_Card_ML/workspaces/Python&tid=3ae71617-51d3-4cb1-aca5-04788b6ed780&activeFilePath=Users/anshumaangoel12/Python_credit_Card/source/Fraud_Detection_FinTech.ipynb
+Working Code is a Python Workbook, deployed in virtual machine in Azure Cloud at https://ml.azure.com/fileexplorerAzNB?wsid=/subscriptions/15ae5d0d-1d7a-4643-9088-62988c5a2dc4/resourcegroups/Credit_Card_ML/workspaces/Python&tid=3ae71617-51d3-4cb1-aca5-04788b6ed780&activeFilePath=Users/anshumaangoel12/Python_credit_Card/source/Fraud_Detection_FinTech.ipynb
+
+Open access Credit Card DataSet taken from Kaggle- https://www.kaggle.com/mlg-ulb/creditcardfraud/download  
 
 # Problem statement and Synopsys of Project
 
